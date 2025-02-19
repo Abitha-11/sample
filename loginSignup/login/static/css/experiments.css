@@ -1,0 +1,40 @@
+body {
+    background-color: #FFFACD; 
+    color: #4f3e1069; /* Optional: Set text color to white for better contrast */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Optional: Ensure consistent font styling */
+}
+
+.centered-text {
+    font-size: 48px; /* Large font size */
+    font-weight: bold; /* Makes the text bold */
+    text-align: center; /* Centers text horizontally */
+    margin-top: 20px;
+    color: #4f3e1069; /* Optional: Set the text color */
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin:50px;
+}
+
+th, td {
+    color: black;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: justify;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.details {
+    display: none;
+    width:100%;
+    margin-top: 10px;
+    padding: 16px;
+    background-color: #f9f9f9;
+}
